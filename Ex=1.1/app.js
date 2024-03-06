@@ -1,3 +1,5 @@
+// Excersice = 1.1
+
 let myname ="Syed Zohaib Ali Kazmi"
 
 console.log(myname)
@@ -18,3 +20,8 @@ console.log(5+15)
 // Line no 23 Answer 
 
 console.log(age +2)
+
+
+alert ("Welcome")
+
+// console.log("Hi there!");
